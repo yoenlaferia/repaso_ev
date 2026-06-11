@@ -1,0 +1,5 @@
+1)working directory donde se suben pero no al repositorio,stating area la "zona de espera" y el repo local donde se guarda el 
+archivo antes del push
+2)aparece en untracked ya que lo bajaste desde donde estaba para modifcarlo
+3)untracked es que no a sido ni añadido ni commitiado,modifed es modificado,y staged es cuando esta en la staging area
+4)el git add "archivo"
